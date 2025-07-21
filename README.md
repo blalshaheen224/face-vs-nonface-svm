@@ -111,6 +111,6 @@ pip install -r requirements.txt
 
 ---
 
-## 🔖 License
+##  License
 
 This project uses datasets that are publicly distributed with `scikit-learn` and is intended for educational and research purposes only.
